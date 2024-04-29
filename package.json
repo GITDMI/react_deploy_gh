@@ -1,7 +1,7 @@
 {
   "name": "ch23_build_deploy_react_gitpage",
   "version": "0.1.0",
-  "homepage": "https://github.com/GITDMI.github.io/react_deploy_gh",
+  "homepage": "https://GITDMI.github.io/react_deploy_gh",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
